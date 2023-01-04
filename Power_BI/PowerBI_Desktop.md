@@ -1,14 +1,14 @@
-# Power BI Desktop #
+# Power BI Desktop 
 
-#Objetivos#
+#Objetivos
 
 1) Conocimiento principales funciones Power BI Desktop
 2) Crear Dashboard
 3) Con DAX generar métricas y columnas calculadas
 
 
-#Descripción general#  
+#Descripción general 
 
-#Fundamentos de Power BI#
+#Fundamentos de Power BI
 
-#Proyecto práctico#
+#Proyecto práctico
