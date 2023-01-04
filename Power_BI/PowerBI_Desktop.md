@@ -12,3 +12,8 @@
 # Fundamentos de Power BI
 
 # Proyecto práctico
+
+  1) Extracción y transformación de datos    
+  2) Modelado de datos    
+  3) Generar métricas y columnas calculadas con DAX    
+  4) Visualización de datos con informes     
