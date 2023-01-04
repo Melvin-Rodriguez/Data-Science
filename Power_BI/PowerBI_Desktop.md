@@ -20,6 +20,24 @@ Galería [Dashboards](https://community.powerbi.com/t5/Data-Stories-Gallery/bd-p
 
 # Fundamentos de Power BI
 
+Como se mencionó anteriormente para la **extracción y transformación** de datos Power BI permite conectarse e importa datos de múltiples orígenes tales como: 
+
+* Archivos planos y carpetas: csv, text, xls, etc.
+
+* Bases de datos: SQL, Access, Oracle, IBM, Azure, etc.
+
+* Servicios en línea: Sharepoint, GitHub, Dynamics 365, Google Analytics, Salesforce, servicio Power BI, etc.
+
+* Otros: Web feeds, scripts R, Spark, Hadoop, etc.
+
+Al completarse la extracción (importación) de datos existen funciones importantes para la transformación de los datos que se encuentran distribuidas en las pestañas siguientes:
+
+* Inicio: La pestaña incluye configuraciones generales y operaciones comunes de transformación de datos.
+
+* Transformación: La pestaña incluye herramientas para modificar columnas existentes.
+
+* Agregar columna: ofrece operaciones para crear nuevas columnas como reglas condicionales, operaciones de texto, cálculos, etc.
+
 # Proyecto práctico
 
 1. Extracción y transformación de datos
