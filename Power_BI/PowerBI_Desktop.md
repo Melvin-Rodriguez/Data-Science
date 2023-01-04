@@ -9,7 +9,7 @@
 
 # Descripción general 
 
-This site was built using [GitHub Pages](https://pages.github.com/)
+Comunidad PowerBI [Forums]([https://pages.github.com/](https://community.powerbi.com/t5/Forums/ct-p/PBI_Comm_Forums))
 
 # Fundamentos de Power BI
 
