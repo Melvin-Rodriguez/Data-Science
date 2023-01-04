@@ -9,6 +9,8 @@
 
 # Descripción general 
 
+This site was built using [GitHub Pages](https://pages.github.com/)
+
 # Fundamentos de Power BI
 
 # Proyecto práctico
