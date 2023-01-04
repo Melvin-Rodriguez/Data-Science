@@ -7,8 +7,9 @@
 3. Con DAX generar métricas y columnas calculadas
 
 
-# Descripción general 
-Power BI es una herramientas muy utilizada en Business Intelligence, dentro de las muchas ventajas que ofrece, es que permite conectar, transformar y analizar grandes volúmenes de datos y a partir de estos datos poder construir modelos que se relacionen (relacionales) de forma fácil y automatizada, a su vez poder realizar cálculos complejos de forma rápida y sencilla utilizando DAX, como presentación de resultados permite crear informes de manera personaliza e interactivos, permitiendo realizar analítica avanzada. 
+# Descripción general
+
+Power BI es una herramientas de anális de datos y creación de ifnormes de instalación local muy utilizada en Business Intelligence, dentro de las muchas ventajas que ofrece, es que permite conectar, transformar y analizar grandes volúmenes de datos y a partir de estos datos poder construir modelos que se relacionen (relacionales) de forma fácil y automatizada, a su vez poder realizar cálculos complejos de forma rápida y sencilla utilizando DAX, como presentación de resultados permite crear informes de manera personaliza e interactivos, permitiendo realizar analítica avanzada. 
 
 # Recursos
 Ruta de aprendizaje [Donde iniciar](https://learn.microsoft.com/en-us/training/powerplatform/power-bi?WT.mc_id=powerbi_landingpage-docs-link)
