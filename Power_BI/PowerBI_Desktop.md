@@ -9,7 +9,9 @@
 
 # Descripción general 
 
-Comunidad PowerBI [Forums]([https://pages.github.com/](https://community.powerbi.com/t5/Forums/ct-p/PBI_Comm_Forums))
+Comunidad PowerBI [Forums](https://community.powerbi.com/t5/Forums/ct-p/PBI_Comm_Forums).
+
+
 
 # Fundamentos de Power BI
 
