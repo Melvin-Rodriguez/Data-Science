@@ -22,6 +22,8 @@ Cheat Sheet [DAX](https://community.powerbi.com/t5/Data-Stories-Gallery/DAX-Chea
 
 # Fundamentos de Power BI
 
+## **Extracción y Transformación**
+
 Como se mencionó anteriormente para la **extracción y transformación** de datos Power BI permite conectarse e importa datos de múltiples orígenes tales como: 
 
 * Archivos planos y carpetas: csv, text, xls, etc.
@@ -32,7 +34,7 @@ Como se mencionó anteriormente para la **extracción y transformación** de dat
 
 * Otros: Web feeds, scripts R, Spark, Hadoop, etc.
 
-Al completarse la extracción (importación) de datos existen funciones importantes para la transformación de los datos que se encuentran distribuidas en las pestañas siguientes:
+Al completarse la extracción (importación) de datos existen funciones importantes para la **transformación de los datos** que se encuentran distribuidas en las pestañas siguientes:
 
 * Inicio: La pestaña incluye configuraciones generales y operaciones comunes de transformación de datos.
 
@@ -40,25 +42,29 @@ Al completarse la extracción (importación) de datos existen funciones importan
 
 * Agregar columna: ofrece operaciones para crear nuevas columnas como reglas condicionales, operaciones de texto, cálculos, etc.
 
+## **Modelo de Datos**
+
 Una vez realizados los pasos anteriores podemos iniciar a crear **modelos de datos** entiendace como modelado a preparar los datos par aque estén concectados y puedan usarse de forma conjunta, es decir establecer **relaciones** entre las tablas a utilizar.
 
 Podemos dividir los modelos o esquemas en dos tipos: 
 
-* **Modelo en estrella:** Hay una tabla central (tabla de hechos) rodeada de otras tablas (tablas de dimensiones)
+* Modelo en estrella: Hay una tabla central (tabla de hechos) rodeada de otras tablas (tablas de dimensiones)
 
-![image](https://user-images.githubusercontent.com/111929312/210885604-bf245365-c437-47ba-ba18-976b9db687dc.png)
-
-
-* **Modelo en copo de nieve:** deriva del modelo en estrella donde las tablas de dimensiones se separan en múltiples tablas.
-
-![image](https://user-images.githubusercontent.com/111929312/210886144-e678e7c8-c792-4bc5-8eb8-9007db7a3ba5.png)
+### ![image](https://user-images.githubusercontent.com/111929312/210885604-bf245365-c437-47ba-ba18-976b9db687dc.png)
 
 
-**Métricas con DAX
+* Modelo en copo de nieve: deriva del modelo en estrella donde las tablas de dimensiones se separan en múltiples tablas.
+
+### ![image](https://user-images.githubusercontent.com/111929312/210886144-e678e7c8-c792-4bc5-8eb8-9007db7a3ba5.png)
+
+
+## **Métricas con DAX**
 
 DAX es catalogado como un lenguaje de programación utilizado en Power BI con el cual se pueden crear métircas o columnas calculadas y esto poderlo agregar al modelo. La sintaxis es intuitiva y ayuda a gnenerar métricas avanzadas varialbes así como cálculos complejos. 
 
 Las columnas calculadas son utilizadas para obtener un valor para cada registro (fila), y las métricas son utilizadas para agregar un valor.
+
+
 
 # Proyecto práctico
 
