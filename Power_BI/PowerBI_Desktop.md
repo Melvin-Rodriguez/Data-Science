@@ -78,6 +78,9 @@ Al momento de visualizar los resutados con gráficas podemos realizarlos desde l
 
 * **Panel de datos:** contiene las diferentes tablas, columnas, métricas y columnas calculadas que contiene el informe.
 
+![image](https://user-images.githubusercontent.com/111929312/210890633-8e4be906-051d-42a7-ae36-163564663267.png)
+
+
 # Proyecto práctico
 
 1. Extracción y transformación de datos
