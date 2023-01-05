@@ -49,7 +49,8 @@ Podemos dividir los modelos o esquemas en dos tipos:
 
 * **Modelo en copo de nieve:** deriva del modelo en estrella donde las tablas de dimensiones se separan en múltiples tablas.
 
-![image](https://user-images.githubusercontent.com/111929312/210885656-2855a8c7-4e42-4955-954c-e0066d8c3df9.png)
+![image](https://user-images.githubusercontent.com/111929312/210886144-e678e7c8-c792-4bc5-8eb8-9007db7a3ba5.png)
+
 
 # Proyecto práctico
 
