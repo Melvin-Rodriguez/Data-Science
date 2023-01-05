@@ -68,7 +68,15 @@ Las columnas calculadas son utilizadas para obtener un valor para cada registro 
 
 Al momento de visualizar los resutados con gráficas podemos realizarlos desde la **vista de inicio** las herramientas de Power BI nos permitiran añadir gráficas e introducir diferentes datos hasta modifcar las gráficas.
 
+* **Páginas del informe:** muestran las diferentes hojas de las que se compone el dashboard.
 
+* **Opciones de visualización:** es el panel principal donde seleccionamos el tipo de grafica que queremos crear.
+
+* **Panel de filtros:** permite configurar los filtros.
+
+* **Campo/Formato/Analytics:** permiten introducir los datos, modificar los campos o añadir análisis, como líneas de tendencia, etc.
+
+* **Panel de datos:** contiene las diferentes tablas, columnas, métricas y columnas calculadas que contiene el informe.
 
 # Proyecto práctico
 
