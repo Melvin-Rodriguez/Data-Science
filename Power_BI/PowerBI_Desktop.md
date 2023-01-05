@@ -18,6 +18,8 @@ Comunidad PowerBI [Forums](https://community.powerbi.com/t5/Forums/ct-p/PBI_Comm
 
 Galería [Dashboards](https://community.powerbi.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery)
 
+Cheat Sheet [DAX](https://community.powerbi.com/t5/Data-Stories-Gallery/DAX-Cheat-Sheet-Success-of-CSS-Selector/td-p/559474)
+
 # Fundamentos de Power BI
 
 Como se mencionó anteriormente para la **extracción y transformación** de datos Power BI permite conectarse e importa datos de múltiples orígenes tales como: 
@@ -51,6 +53,12 @@ Podemos dividir los modelos o esquemas en dos tipos:
 
 ![image](https://user-images.githubusercontent.com/111929312/210886144-e678e7c8-c792-4bc5-8eb8-9007db7a3ba5.png)
 
+
+**Métricas con DAX
+
+DAX es catalogado como un lenguaje de programación utilizado en Power BI con el cual se pueden crear métircas o columnas calculadas y esto poderlo agregar al modelo. La sintaxis es intuitiva y ayuda a gnenerar métricas avanzadas varialbes así como cálculos complejos. 
+
+Las columnas calculadas son utilizadas para obtener un valor para cada registro (fila), y las métricas son utilizadas para agregar un valor.
 
 # Proyecto práctico
 
