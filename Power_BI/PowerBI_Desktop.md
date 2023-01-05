@@ -87,3 +87,8 @@ Al momento de visualizar los resutados con gráficas podemos realizarlos desde l
 2. Modelado de datos
 3. Generar métricas y columnas calculadas con DAX
 4. Visualización de datos con informes     
+
+
+*Referencias 
+1) Curso Completo de Power BI Desktop - Coursera Project Network
+
