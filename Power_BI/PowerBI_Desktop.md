@@ -38,6 +38,19 @@ Al completarse la extracción (importación) de datos existen funciones importan
 
 * Agregar columna: ofrece operaciones para crear nuevas columnas como reglas condicionales, operaciones de texto, cálculos, etc.
 
+Una vez realizados los pasos anteriores podemos iniciar a crear **modelos de datos** entiendace como modelado a preparar los datos par aque estén concectados y puedan usarse de forma conjunta, es decir establecer **relaciones** entre las tablas a utilizar.
+
+Podemos dividir los modelos o esquemas en dos tipos: 
+
+* **Modelo en estrella:** Hay una tabla central (tabla de hechos) rodeada de otras tablas (tablas de dimensiones)
+
+![image](https://user-images.githubusercontent.com/111929312/210885604-bf245365-c437-47ba-ba18-976b9db687dc.png)
+
+
+* **Modelo en copo de nieve:** deriva del modelo en estrella donde las tablas de dimensiones se separan en múltiples tablas.
+
+![image](https://user-images.githubusercontent.com/111929312/210885656-2855a8c7-4e42-4955-954c-e0066d8c3df9.png)
+
 # Proyecto práctico
 
 1. Extracción y transformación de datos
