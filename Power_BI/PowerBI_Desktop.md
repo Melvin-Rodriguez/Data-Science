@@ -91,6 +91,14 @@ Par obtener los datos nos vamos a Inicio > Obtener datos > seleccionamos de las 
                                  **--------------------------------------------------**
 ![image](https://user-images.githubusercontent.com/111929312/210902823-ccc75fb2-4604-41ee-8c7c-39d92b0cb445.png)
 
+En la pestaña de **Transformación de Datos** se abrira una nueva ventana en la cual tendremos multiples opcciones de transformación dentro de las que podemos mencionar la pestaña **Vista** y las opciones Calidad de columnas, Distribución de columnas y Perfil de columna, estas opciones permitiran claridad de la calidad de los datos por columna y poder decidir que acciones tomar. 
+
+![image](https://user-images.githubusercontent.com/111929312/210907060-e8025510-87cf-4e84-90c6-df207604c9fb.png)
+
+Tambien es importante concer el tipo de datos que contine cada columna, esto lo podemos realizadar en la pestaña Inicio > Tipo de Datos
+
+![image](https://user-images.githubusercontent.com/111929312/210907146-938205ee-775d-4d15-978f-e6a037382223.png)
+
 ### 2. Modelado de datos
 ### 3. Generar métricas y columnas calculadas con DAX
 ### 4. Visualización de datos con informes     
