@@ -83,10 +83,17 @@ Al momento de visualizar los resutados con gráficas podemos realizarlos desde l
 
 # Proyecto práctico
 
-1. Extracción y transformación de datos
-2. Modelado de datos
-3. Generar métricas y columnas calculadas con DAX
-4. Visualización de datos con informes     
+### 1. Extracción y transformación de datos
+
+Par obtener los datos nos vamos a Inico > Obtener datos > seleccionamos de las opciones el tipo de archivo a conectar/cargar, en este caso utilizaremos CSV > damos doble click o bien seleccionamos Conectar, nos mostrara el nevegador de documentos y seleccionamos nuestro archivo > por ultimo selecconamos Cargar.
+
+![image](https://user-images.githubusercontent.com/111929312/210902743-fea55a3d-bba0-451f-b224-a6fd104192a4.png)
+
+![image](https://user-images.githubusercontent.com/111929312/210902823-ccc75fb2-4604-41ee-8c7c-39d92b0cb445.png)
+
+### 2. Modelado de datos
+### 3. Generar métricas y columnas calculadas con DAX
+### 4. Visualización de datos con informes     
 
 
 *Referencias 
