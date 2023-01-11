@@ -101,7 +101,7 @@ También es importante conocer el tipo de datos que contiene cada columna, esto 
 
 ### 2. Modelado de datos
 
-El concento basico del modelado de datos es: Tablas conectadas por relaciones usando un identificador único en ambas tablas, Ver Imagen Modelo.
+El concento basico del modelado de datos es: Tablas conectadas por relaciones usando un identificador único en ambas tablas.(Ver Imagen Modelo)
 
 **Tipos de Tablas**
 * Existen tablas de **hechos** que contienen valores y números.
@@ -122,9 +122,9 @@ Las tablas de hechos se encuentran en la parte central del modelo y las tablas d
 * Tipo de modelos de datos (Estrella, Copo de Nieve)
 * Llaves foráneas y primarias
 * Normalización de datos: objetivos principales 
-    * Eliminar datos redundantes
-    * Minimizar los errores y anomalías
-    * Simplificar consultas y estructuras del modelo
+  * Eliminar datos redundantes
+  * Minimizar los errores y anomalías
+  * Simplificar consultas y estructuras del modelo
 
 **Imagen Modelo**
 
