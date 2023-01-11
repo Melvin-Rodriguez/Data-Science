@@ -127,6 +127,7 @@ Las tablas de hechos se encuentran en la parte central del modelo y las tablas d
     * Simplificar consultas y estructuras del modelo
 
 **Imagen Modelo**
+
 ![image](https://user-images.githubusercontent.com/111929312/211933760-28820691-58bf-4f33-af8c-0fae11b30be5.png)
 
 
