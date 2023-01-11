@@ -100,6 +100,68 @@ También es importante conocer el tipo de datos que contiene cada columna, esto 
 ![image](https://user-images.githubusercontent.com/111929312/210907146-938205ee-775d-4d15-978f-e6a037382223.png)
 
 ### 2. Modelado de datos
+
+El concento basico del modelado de datos es: Tablas conectadas por relaciones usando un identificador único en ambas tablas, como se observa en la imagen:
+
+![image](https://user-images.githubusercontent.com/111929312/211933760-28820691-58bf-4f33-af8c-0fae11b30be5.png)
+
+**Las relaciones (cardinalidad) pueden se:**
+* Uno a Uno
+* Uno a Varios
+* Varios a Uno
+* Varios a Varios (debe existir una tabla intermedia con valores únicos para crear una relación de varios a uno y de uno a varios)
+
+**Se debe considerar:**
+* Cada tabla debe tener un objetivo distinto y especifico
+* Una tabla que contenga información de dos temas diferentes es necesario dividirla en dos tablas
+* Tipo de modelos de datos
+* Llaves foráneas y primarias
+
+**Tipos de Tablas**
+* Existen tablas de **hechos** que contienen valores y números.
+* Tablas de **dimensiones** que contienen información descriptiva basada en texto y explicativos
+
+Por lo general las tablas de hechos se encuentran en la parte central del modelo y las tablas de dimensiones alrededor de esta. (Ver imagen anterior) 
+
+**Normalización de datos:** objetivos principales 
+* Eliminar datos redundantes
+* Minimizar los errores y anomalías
+* Simplificar consultas y estructuras del modelo
+
+**Crear una Relacion**
+
+Para crear una relación únicamente arrastramos el campo llave de la tabla A hacia el campo llave de la tabla B, se valida la relación, cardinaliad y si todo esta como lo deseamos click en aceptar.
+
+![image](https://user-images.githubusercontent.com/111929312/211935677-c93b0e0e-7d95-47ff-af9f-9eea34bd3ca6.png)
+
+
+**Modificar la relación: click derecho en la relación **
+
+![image](https://user-images.githubusercontent.com/111929312/211934956-7141132b-1b9d-4428-ac2d-15c35c6b6417.png)
+
+Pueden tenerse relaciones activas y relaciones secundarias (al utilizar relaciones secundarias no se filtrarían las gráficas por esta relación, por lo que, según el caso es recomendable mantenerlas activas)
+
+**Modificar Dirección de filtro: click derecho en la relación **
+
+![image](https://user-images.githubusercontent.com/111929312/211935351-63e99e4e-1190-4e71-a998-d24efe7f32b0.png)
+
+Por defecto la relación del filtro apuntara del lado uno a varios, cuando se filtra una tabla en esta condición el filtro va con dirección a la flecha.
+
+**Nota:** Al principio se utiliza la dirección en ambos sentidos pero es importante no abusar de esta condición, para evitar problemas de circularidad en las relaciones.
+
+Power BI genera relaciones automáticamente, sin embargo, es necesario revisar estas relaciones. 
+
+**Agregar tabla calendario al modelo por medio de una funcion de DAX**
+
+Modelado > Nueva Tabla > Renombrar a “Calendario” 
+
+![image](https://user-images.githubusercontent.com/111929312/211935836-bbce53a4-f7da-456b-9e3f-cce1e7ae1782.png)
+
+Al crease la tabla debemos realizar la relación con la tabla y campo deseado (día, semana, mes, año, etc.) es importante que el formato de fecha coincida en ambas tablas.
+
+![image](https://user-images.githubusercontent.com/111929312/211936009-4c98951c-1b4e-4700-87a5-784f990949fd.png)
+
+
 ### 3. Generar métricas y columnas calculadas con DAX
 ### 4. Visualización de datos con informes     
 
