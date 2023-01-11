@@ -101,9 +101,13 @@ También es importante conocer el tipo de datos que contiene cada columna, esto 
 
 ### 2. Modelado de datos
 
-El concento basico del modelado de datos es: Tablas conectadas por relaciones usando un identificador único en ambas tablas, como se observa en la imagen:
+El concento basico del modelado de datos es: Tablas conectadas por relaciones usando un identificador único en ambas tablas, Ver Imagen Modelo.
 
-![image](https://user-images.githubusercontent.com/111929312/211933760-28820691-58bf-4f33-af8c-0fae11b30be5.png)
+**Tipos de Tablas**
+* Existen tablas de **hechos** que contienen valores y números.
+* Tablas de **dimensiones** que contienen información descriptiva basada en texto y explicativos
+
+Las tablas de hechos se encuentran en la parte central del modelo y las tablas de dimensiones alrededor de esta. (Ver Imagen Modelo) 
 
 **Las relaciones (cardinalidad) pueden se:**
 * Uno a Uno
@@ -111,22 +115,20 @@ El concento basico del modelado de datos es: Tablas conectadas por relaciones us
 * Varios a Uno
 * Varios a Varios (debe existir una tabla intermedia con valores únicos para crear una relación de varios a uno y de uno a varios)
 
+
 **Se debe considerar:**
 * Cada tabla debe tener un objetivo distinto y especifico
 * Una tabla que contenga información de dos temas diferentes es necesario dividirla en dos tablas
-* Tipo de modelos de datos
+* Tipo de modelos de datos (Estrella, Copo de Nieve)
 * Llaves foráneas y primarias
+* Normalización de datos: objetivos principales 
+    * Eliminar datos redundantes
+    * Minimizar los errores y anomalías
+    * Simplificar consultas y estructuras del modelo
 
-**Tipos de Tablas**
-* Existen tablas de **hechos** que contienen valores y números.
-* Tablas de **dimensiones** que contienen información descriptiva basada en texto y explicativos
+**Imagen Modelo**
+![image](https://user-images.githubusercontent.com/111929312/211933760-28820691-58bf-4f33-af8c-0fae11b30be5.png)
 
-Por lo general las tablas de hechos se encuentran en la parte central del modelo y las tablas de dimensiones alrededor de esta. (Ver imagen anterior) 
-
-**Normalización de datos:** objetivos principales 
-* Eliminar datos redundantes
-* Minimizar los errores y anomalías
-* Simplificar consultas y estructuras del modelo
 
 **Crear una Relacion**
 
