@@ -138,13 +138,13 @@ Para crear una relación únicamente arrastramos el campo llave de la tabla A ha
 ![image](https://user-images.githubusercontent.com/111929312/211935677-c93b0e0e-7d95-47ff-af9f-9eea34bd3ca6.png)
 
 
-**Modificar la relación: click derecho en la relación **
+**Modificar la relación: click derecho en la relación**
 
 ![image](https://user-images.githubusercontent.com/111929312/211934956-7141132b-1b9d-4428-ac2d-15c35c6b6417.png)
 
 Pueden tenerse relaciones activas y relaciones secundarias (al utilizar relaciones secundarias no se filtrarían las gráficas por esta relación, por lo que, según el caso es recomendable mantenerlas activas)
 
-**Modificar Dirección de filtro: click derecho en la relación **
+**Modificar Dirección de filtro: click derecho en la relación**
 
 ![image](https://user-images.githubusercontent.com/111929312/211935351-63e99e4e-1190-4e71-a998-d24efe7f32b0.png)
 
