@@ -166,6 +166,38 @@ Al crease la tabla debemos realizar la relación con la tabla y campo deseado (d
 
 
 ### 3. Generar métricas y columnas calculadas con DAX
+
+**Columna calculada**: Tiene una representación física en la tabla y con un valor fijo para cada registro
+
+![image](https://user-images.githubusercontent.com/111929312/211943404-59816d52-624a-4324-b07c-cf6cba1be9ce.png)
+
+**Métricas:**: No tienen representación física en la tabla, son un valor agregado y también pueden se filtradas, las métricas utilizan las funciones que se dividen en:
+
+* Fecha y Tiempo 
+* Filtro 
+* Información 
+* Lógica 
+* Matemáticas y trigonometría
+* Estadísticas
+* Texto 
+* Inteligencia del Tiempo 
+* Padres e Hijos 
+* Otras funciones 
+
+![image](https://user-images.githubusercontent.com/111929312/211943671-d85697e6-02a4-4e52-8d9c-8410c2f7c8b5.png)
+
+**Crear una métrica o columna**: Click derecho sobre la tabla y seleccionamos la opción deseada 
+
+![image](https://user-images.githubusercontent.com/111929312/211943773-1e0defab-3497-4cbb-b351-3894baebb23d.png)
+
+
+**Algunos ejemplos**
+
+![image](https://user-images.githubusercontent.com/111929312/211945583-f392e353-f757-480d-af04-e7c171a62db6.png)
+
+![image](https://user-images.githubusercontent.com/111929312/211945603-2361f2e9-b44d-4a79-9779-1c97b1471c55.png)
+
+
 ### 4. Visualización de datos con informes     
 
 
