@@ -171,7 +171,7 @@ Al crease la tabla debemos realizar la relación con la tabla y campo deseado (d
 
 ![image](https://user-images.githubusercontent.com/111929312/211943404-59816d52-624a-4324-b07c-cf6cba1be9ce.png)
 
-**Métricas:**: No tienen representación física en la tabla, son un valor agregado y también pueden se filtradas, las métricas utilizan las funciones que se dividen en:
+**Métricas**: No tienen representación física en la tabla, son un valor agregado y también pueden se filtradas, las métricas utilizan las funciones que se dividen en:
 
 * Fecha y Tiempo 
 * Filtro 
