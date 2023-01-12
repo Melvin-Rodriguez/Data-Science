@@ -234,6 +234,6 @@ Al crease la tabla debemos realizar la relación con la tabla y campo deseado (d
 ![image](https://user-images.githubusercontent.com/111929312/212196685-ae11ce64-9fcc-466a-b4de-646aa76b42f9.png)
 
 
-*Referencias 
-1) Curso Completo de Power BI Desktop - Coursera Project Network
+# Referencias 
+Agradecimiento por los conocimientos adquiridos a: Curso Completo de Power BI Desktop - Coursera Project Network
 
