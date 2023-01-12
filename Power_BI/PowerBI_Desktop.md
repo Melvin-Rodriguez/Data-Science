@@ -200,6 +200,39 @@ Al crease la tabla debemos realizar la relación con la tabla y campo deseado (d
 
 ### 4. Visualización de datos con informes     
 
+**Principales opciones** 
+
+![image](https://user-images.githubusercontent.com/111929312/212196291-1f48cb67-7507-4f85-9a71-701accfd05d5.png)
+
+![image](https://user-images.githubusercontent.com/111929312/212196410-545b59b8-8761-4f20-9924-b0962b0431dd.png)
+
+
+**Sugerencias**
+
+* Utilizar imagen de fondo (template)
+
+![image](https://user-images.githubusercontent.com/111929312/212196435-c07fe366-3c62-43f0-b897-f907d3784317.png)
+
+* Seleccionar un estilo (recomendable usar el mismo estilo para todas las gráficas)
+
+![image](https://user-images.githubusercontent.com/111929312/212196497-edf2a449-e7a6-4666-b37b-c1ac64967f77.png)
+
+* Agregar o cambiar graficas
+
+![image](https://user-images.githubusercontent.com/111929312/212196543-4eac55b0-577e-4d04-bf07-c44fa4228e70.png)
+
+* Separar los filtros de las gráficas y paneles de métricas, para que el informe sea mucho más amigable e intuitivo para el usuario
+
+![image](https://user-images.githubusercontent.com/111929312/212196589-942545ef-ecee-4fd4-8e4d-c08949b302df.png)
+
+* Es importante elegir la gráfica correcta para representar la información 
+
+![image](https://user-images.githubusercontent.com/111929312/212196639-bf29317b-e37b-493a-890b-65c0535318eb.png)
+
+* Interacción entre gráficos
+
+![image](https://user-images.githubusercontent.com/111929312/212196685-ae11ce64-9fcc-466a-b4de-646aa76b42f9.png)
+
 
 *Referencias 
 1) Curso Completo de Power BI Desktop - Coursera Project Network
