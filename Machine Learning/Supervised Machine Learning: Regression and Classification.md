@@ -19,3 +19,8 @@
 **Mejores Practicas**
 - evaluar y ajustar modelos 
 - Adoptar un enfoque centrado en los datos para mejorar el rendimiento
+
+**Terminología 
+
+![image](https://user-images.githubusercontent.com/111929312/212776545-2c90f4bf-c5f3-46dc-b21b-4c200a237513.png)
+
