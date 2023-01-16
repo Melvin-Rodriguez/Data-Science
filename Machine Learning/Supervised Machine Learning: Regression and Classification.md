@@ -13,6 +13,9 @@
 - Reducción de dimensionalidad 
 - Sistemas de recomendación 
 
+![image](https://user-images.githubusercontent.com/111929312/212770000-a082f496-c3fd-4b1e-bfa7-b10effecd8ce.png)
+
+
 **Mejores Practicas**
 - evaluar y ajustar modelos 
 - Adoptar un enfoque centrado en los datos para mejorar el rendimiento
