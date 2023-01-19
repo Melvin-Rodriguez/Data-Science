@@ -30,3 +30,6 @@
 
 ![image](https://user-images.githubusercontent.com/111929312/212776545-2c90f4bf-c5f3-46dc-b21b-4c200a237513.png)
 
+Modelo Regresión Lineal
+
+![image](https://user-images.githubusercontent.com/111929312/213582304-112a3d29-953c-473b-ae98-cb989f06f113.png)
