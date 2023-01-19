@@ -7,11 +7,17 @@
 - Regresión lineal múltiple
 - Red Neural
 - Árbol de decisiones
+- El Modelo de Regresión predice números (infinitas posibilidades)
+- El modelo de clasificación predice categorías (Numero de categorías disponibles
+-   Ambos modelos de aprendizaje supervisado tienen datos con respuesta correcta
 
 **Aprendizaje no supervisado:**
 
 - Reducción de dimensionalidad 
 - Sistemas de recomendación 
+
+
+
 
 ![image](https://user-images.githubusercontent.com/111929312/212770000-a082f496-c3fd-4b1e-bfa7-b10effecd8ce.png)
 
