@@ -1,7 +1,7 @@
 # Data-Science
 
 ## Cursos y Certificacioens
-### IBM Data Science
+- IBM Data Science
 - Machine Learning with Python
 - Data Science Methodology
 - Tools for Data Science
@@ -12,3 +12,4 @@
 - Applied Data Science Capstone
 - What is Data Science?
 - Data Analysis with Python
+- Crash Course on Python
